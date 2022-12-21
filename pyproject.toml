@@ -11,6 +11,7 @@ replit = "^3.2.4"
 urllib3 = "^1.26.12"
 streamlit = "^1.15.0"
 pandas = "^1.5.1"
+plotly = "^5.11.0"
 
 [tool.poetry.dev-dependencies]
 debugpy = "^1.6.2"
